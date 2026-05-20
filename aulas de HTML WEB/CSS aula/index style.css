@@ -1,0 +1,11 @@
+/*sleciona H1 e P*/
+h1 , p {
+    color:blue;
+
+}
+
+/*selciona a dentro de p*/
+
+p, a {
+    color:rgb(0, 200, 23);
+}
