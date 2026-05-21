@@ -1,0 +1,29 @@
+/*Primeiro elemento*/
+.lista_1 li:first-child {
+    background: #caf;
+}
+
+/*Ultimo elemento*/
+.lista_1 li:last-child {
+    background: rgb(96, 7, 7);
+}
+
+/*terceiro elemento*/
+.lista_1 li:nth-child(3) {
+    background: rgb(52, 34, 78);
+}
+
+/*impar elemento*/
+.lista_2 li:nth-child(odd) {
+    background: rgb(95, 219, 186);
+}
+
+/*par elemento*/
+.lista_2 li:nth-child(even) {
+    background: rgb(27, 11, 148);
+}
+
+/*4 de 4 elemento*/
+.lista_2 li:nth-child(n4) {
+    background: rgb(179, 125, 0);
+}
