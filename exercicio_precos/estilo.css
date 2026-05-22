@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    color: #ffffff ;
+    font: arial;
+}
+p {
+    color: #b2b2b2;
+    font: arial;
+}
+.amarelo {
+    color: #febe01;
+    font: arial;
+}
+div {
+    background: #111;
+    width: 300px;
+    height: 120px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 4px;
+}
+button {
+    height: 30px;
+    background: #febe01;
+    border-radius: 4px;
+}
